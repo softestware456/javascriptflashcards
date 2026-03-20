@@ -2,7 +2,7 @@
 
 A simple flashcard app built with HTML, CSS, and JavaScript. It lets you create, view and delete flashcards in your browser — no backend required.
 
-You can try it out here: https://softestware456.github.io/javascriptflashcards/ 
+You can try it out here: https://daniellejbs.github.io/javascriptflashcards/ 
 
 <h2>Features</h2>
 <ul>
